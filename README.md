@@ -1,9 +1,9 @@
-### Hi there 👋
+### :seedling: We grow every day! :seedling:
 
 
-**qweliant/qweliant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Something you may find interesting while you're here are :eyes:
 
-- 🔭 I’m currently working on tapfunds and feauxlosophy
+:droplet: [tapfunds](https://github.com/tapfunds) - I'm working on a startup from the ground up and invite you to collaborate and critique
 - 🌱 I’m currently learning statistics and go
 - 👯 I’m looking to collaborate on projects that intersect ML + Full Stack Develpoment + Data Engineering
 - 🤔 I’m looking for help with software engineering principles
