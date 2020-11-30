@@ -1,4 +1,4 @@
-### :seedling: We grow every day! :seedling:
+### :seedling: Growing every day! :seedling:
 
 
 Something you may find interesting while you're here are :eyes:
