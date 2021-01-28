@@ -12,5 +12,5 @@ Something you may find interesting while you're here are :eyes:
  
 - CodersRank stats
 <img
-  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=nolimits4web&skills=Vue,C%2B%2B,C%23,SCSS,Svelte&width=820"
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=qweliant"
 />
