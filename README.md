@@ -10,6 +10,7 @@ Something you may find interesting while you're here are :eyes:
 - 💬 Ask me about pretty much anything. Follow me on [pocket](https://getpocket.com/@b95TdAb6g9359p3d50d386bd9fp0g2fv935c68N959P870Tk41255O9fB04qAe2a) to see what news and articles I'm reading. For more longform content, checkout my [goodreads](https://www.goodreads.com/review/list/96621682-qwelian-tanner?shelf=currently-reading). Feel free to recommend books, poetry, articles, short stories etc. I do the knowledge sometimes as well so follow me on [medium](https://medium.com/@qweliantanner) to get my takes on the content I consume. 
 - 📫 Reach me at - email: <qweliantanner@gmail.com> - discord: [Qwelian]() - linkedin: [qdt](https://www.linkedin.com/in/qdt/)
  
+- CodersRank stats
 <img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=qweliant"
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=nolimits4web&skills=Vue,C%2B%2B,C%23,SCSS,Svelte&width=820"
 />
