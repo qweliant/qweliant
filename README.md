@@ -4,7 +4,7 @@ I am inspired by the belief that technology has the potential to level barriers 
 
 I do be working tho :eyes:
 
-- [PubPub](https://www.pubpub.org/) - I work for a open source non-profit doing some very wholesome stuff.
+- 🙆🏿 [PubPub](https://www.pubpub.org/) - I work for a open source non-profit doing some very wholesome stuff.
 - :droplet: [tapfunds](https://github.com/tapfunds) - I'm building a personal finance app, alledgedly
 - 🧠 [feauxlosophy](https://github.com/qweliant/feauxlosphy) - My foray into building an NLP system that generates philosophical dialog. ✨WIP✨
 - ⛓ 🛠 Link and build? I am interested in projects that address structural justice, finance, environmental conservation, decision making :grey_question:, social networks, and SPACE :milky_way: 
