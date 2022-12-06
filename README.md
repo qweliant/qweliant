@@ -1,6 +1,6 @@
 ### :seedling: Growing every day! :seedling:
 
-I am inspired by the belief that technology has the potential to level barriers of access to information and provide transparency for complex collaboration that can shift our zero-sum thinknig to one of collective stewardship.
+At this point technology has the potential to level barriers of access to information and provide transparency for complex collaboration that can shift our zero-sum thinknig to one of collective stewardship. At least, I mean, on average...GROW THE MEAN
 
 I do be working tho :eyes:
 
