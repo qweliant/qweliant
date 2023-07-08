@@ -4,7 +4,7 @@ At this point technology has the potential to level barriers of access to inform
 
 I do be working tho :eyes:
 
-- 🙆🏿 [PubPub](https://www.pubpub.org/) - Open source non-profit doing some very wholesome stuff.
+- 🙆🏿 [PubPub](https://www.pubpub.org/) - Open source non-profit solving open access publishing.
 - :droplet: [tapfunds](https://github.com/tapfunds) - Building a personal finance app, alledgedly
 - 📜 [note](https://github.com/qweliant/note) - Building a personal note app in [Wails](https://wails.io/)
 - ⛓ 🛠 Link and build? I am interested in projects that address structural justice, finance, environmental conservation, decision making :grey_question:, social networks, and SPACE :milky_way
