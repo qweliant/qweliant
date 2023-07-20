@@ -12,7 +12,7 @@ I do be working tho :eyes:
 -  Checkout my [goodreads](https://www.goodreads.com/review/list/96621682-qwelian-tanner?shelf=currently-reading). Please recommend books 
 -  Checkout my [blog](https://www.qwelian.com) to get my takes on the media I consume. 
 - 💬 Ask me about pretty much anything. Reach me at
-  -   email: <qweliantanner@gmail.com>
+  -   email: <qweliantanner@tutanota.com>
   -   instagram: [qwelian](https://www.instagram.com/qwelian/)
   -   yoinkedin: [qdt](https://www.linkedin.com/in/qdt/)
 
