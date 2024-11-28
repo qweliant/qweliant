@@ -4,7 +4,6 @@ Technology has the potential to level barriers of access to information and prov
 
 I do be working tho :eyes:
 
-- 🙆🏿 [PubPub](https://www.pubpub.org/) - Open source non-profit solving open access publishing.
 - :droplet: [tapfunds](https://github.com/tapfunds) - Building a personal finance app, alledgedly
 - 📜 [notes](https://github.com/qweliant/apps) - Building out some personal thought apps and experimenting
 - ⛓ 🛠 Link and build? I am interested in projects that address structural justice, finance, environmental conservation, decision making :grey_question:, social networks, and SPACE :milky_way
