@@ -9,6 +9,7 @@ i do be working tho 👀
 ### what i'm building
  
 - 📜 **[thought apps](https://github.com/qweliant/apps)** — personal thought apps and experiments
+- - 🏥 **[ankaa](https://github.com/qweliant/ankaa)** — real-time monitoring & alert system for home hemodialysis patients (elixir, rust, mqtt, terraform)
 - ⛓️ **link and build?** — i'm interested in projects around structural justice, finance, environmental conservation, decision making❓, social networks, and SPACE 🌌
   - [#WeAreNotAloneAliensJustDontWantToVisitUsLikeImPositiveItsSpaceLawWeAreLikeNorthDakotaOrSomething]()
  
