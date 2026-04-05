@@ -9,7 +9,8 @@ i do be working tho 👀
 ### what i'm building
  
 - 📜 **[thought apps](https://github.com/qweliant/apps)** — personal thought apps and experiments
-- - 🏥 **[ankaa](https://github.com/qweliant/ankaa)** — real-time monitoring & alert system for home hemodialysis patients (elixir, rust, mqtt, terraform)
+- 🏥 **[ankaa](https://github.com/qweliant/ankaa)** — real-time monitoring & alert system for home hemodialysis patients
+- 📷 **[fineshyt](https://github.com/qweliant/fineshyt)** - an AI-powered curator that uses vision models to sift through my massive archive of macro shots and judge if they actually fit my aesthetic
 - ⛓️ **link and build?** — i'm interested in projects around structural justice, finance, environmental conservation, decision making❓, social networks, and SPACE 🌌
   - [#WeAreNotAloneAliensJustDontWantToVisitUsLikeImPositiveItsSpaceLawWeAreLikeNorthDakotaOrSomething]()
  
