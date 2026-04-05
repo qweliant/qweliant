@@ -1,19 +1,29 @@
-### :seedling: We grow every day :seedling:
+# hey, i'm qwelian 👋
+ 
+### 🌱 we grow every day 🌱
+ 
+technology has the potential to level barriers of access to information and provide transparency for complex collaboration that can shift our zero-sum thinking to one of collective stewardship. at least, i mean, on average... **GROW THE MEAN**
+ 
+i do be working tho 👀
 
-Technology has the potential to level barriers of access to information and provide transparency for complex collaboration that can shift our zero-sum thinking to one of collective stewardship. At least, I mean, on average...GROW THE MEAN
-
-I do be working tho :eyes:
-
-- 📜 [Thought Apps](https://github.com/qweliant/apps) - Building out some personal thought apps and experimenting
-- ⛓ 🛠 Link and build? I am interested in projects that address structural justice, finance, environmental conservation, decision making :grey_question:, social networks, and SPACE :milky_way:
--   [#WeAreNotAloneAliensJustDontWantToVisitUsLikeImPositiveItsSpaceLawWeAreLikeNorthDakotaOrSomething]()
--  Checkout my [goodreads](https://www.goodreads.com/review/list/96621682-qwelian-tanner?shelf=currently-reading). Please recommend books 
--  Checkout my [blog](https://www.qwelian.com) to get my takes on the media I consume. 
-- 💬 Ask me about pretty much anything. Reach me at
-  -   email: <qweliantanner@tutanota.com>
-  -   instagram: [qwelian](https://www.instagram.com/qwelian/)
-  -   yoinkedin: [qdt](https://www.linkedin.com/in/qdt/)
-
-
-
-Now please, read One Piece 👒🍖☠︎︎🏴‍☠
+### what i'm building
+ 
+- 📜 **[thought apps](https://github.com/qweliant/apps)** — personal thought apps and experiments
+- ⛓️ **link and build?** — i'm interested in projects around structural justice, finance, environmental conservation, decision making❓, social networks, and SPACE 🌌
+  - [#WeAreNotAloneAliensJustDontWantToVisitUsLikeImPositiveItsSpaceLawWeAreLikeNorthDakotaOrSomething]()
+ 
+### what i'm reading & thinking
+ 
+- 📚 check out my [goodreads](https://www.goodreads.com/review/list/96621682-qwelian-tanner?shelf=currently-reading) — please recommend books
+- ✍️ check out my [blog](https://www.qwelian.com) for my takes on the media i consume
+ 
+### reach me
+ 
+- 📧 email: [qweliantanner@tutanota.com](mailto:qweliantanner@tutanota.com)
+- 📸 instagram: [@qwelian](https://www.instagram.com/qwelian/)
+- 💼 yoinkedin: [qdt](https://www.linkedin.com/in/qdt/)
+- 💬 ask me about pretty much anything
+ 
+---
+ 
+> now please, read One Piece 👒🍖☠️🏴‍☠️
