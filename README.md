@@ -21,7 +21,7 @@ i'm interested in projects around
 - finance
 - environmental conservation
 - decision making & social networks
-- and SPACE 🌌
+- SPACE 🌌
    - [#WeAreNotAloneAliensJustDontWantToVisitUsLikeImPositiveItsSpaceLawWeAreLikeNorthDakotaOrSomething]()
  
 ### what i'm reading & thinking
