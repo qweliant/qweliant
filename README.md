@@ -10,9 +10,19 @@ i do be working tho 👀
  
 - 📜 **[thought apps](https://github.com/qweliant/apps)** — personal thought apps and experiments
 - 🏥 **[ankaa](https://github.com/qweliant/ankaa)** — real-time monitoring & alert system for home hemodialysis patients
-- 📷 **[fineshyt](https://github.com/qweliant/fineshyt)** - an AI-powered curator that uses vision models to sift through my massive archive of macro shots and judge if they actually fit my aesthetic
-- ⛓️ **link and build?** — i'm interested in projects around structural justice, finance, environmental conservation, decision making❓, social networks, and SPACE 🌌
-  - [#WeAreNotAloneAliensJustDontWantToVisitUsLikeImPositiveItsSpaceLawWeAreLikeNorthDakotaOrSomething]()
+- 📷 **[fineshyt](https://github.com/qweliant/fineshyt)** - an AI-powered curator that uses vision models to sift through my massive archive of images and judge if they actually fit my aesthetic
+- 🧩 **[where am i next](https://github.com/qweliant/where-am-i-next)** — a VS Code extension that instantly tells you if you're in a Next.js client or server component and auto-fixes your directives.
+- 🖌️ **[pretext-canvas](https://github.com/qweliant/prosemirror-pretext)** — a custom text rendering engine decoupling ProseMirror from the DOM to build spatial, infinite-canvas knowledge graphs.
+
+### link and build?
+
+i'm interested in projects around 
+- structural justice
+- finance
+- environmental conservation
+- decision making & social networks
+- and SPACE 🌌
+   - [#WeAreNotAloneAliensJustDontWantToVisitUsLikeImPositiveItsSpaceLawWeAreLikeNorthDakotaOrSomething]()
  
 ### what i'm reading & thinking
  
