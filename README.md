@@ -8,7 +8,7 @@ i do be working tho 👀
 
 ### what i'm building
  
-- 📜 **[libraw](https://github.com/qweliant/libraw)** — a library for native camera RAW decoding in elixir
+- 📜 **[libraw](https://github.com/qweliant/libraw)** — a library for RAW decoding in elixir
 - 🏥 **[ankaa](https://github.com/qweliant/ankaa)** — real-time monitoring & alert system for home hemodialysis patients
 - 📷 **[fineshyt](https://github.com/qweliant/fineshyt)** - an AI-powered curator that uses vision models to sift through my massive archive of images and judge if they actually fit my aesthetic
 - 🧩 **[where am i next](https://github.com/qweliant/where-am-i-next)** — a VS Code extension that instantly tells you if you're in a Next.js client or server component and auto-fixes your directives.
